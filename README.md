@@ -1,7 +1,7 @@
 # instagram
 
 A new Flutter project.
-
+It is clone of Instagram
 ## Getting Started
 
 This project is a starting point for a Flutter application.
